@@ -27,6 +27,10 @@ Discord Multitool
 ![image](https://user-images.githubusercontent.com/68393764/140603967-366f9b2e-cc17-4fdb-b468-068587031134.png)
 
 
+# Requirements
+Python 3+
+
+
 # Installation
 1. Click on the green "Code" button and then click on "Download ZIP"
 2. Run setup.bat and it should install most of the modules, if it doesn't work try to manually install.
