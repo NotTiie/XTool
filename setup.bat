@@ -23,3 +23,5 @@ pip install datetime
 pip install PIL
 pip install gtts
 pip install ctypes
+pip install names
+pip install aiosonic
