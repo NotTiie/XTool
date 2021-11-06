@@ -28,4 +28,6 @@ Discord Multitool
 
 
 # Installation
-Run setup.bat and it should install most of the modules, if it doesn't work try to manually install.
+1. Click on the green "Code" button and then click on "Download ZIP"
+2. Run setup.bat and it should install most of the modules, if it doesn't work try to manually install.
+3. Run XTool.py
