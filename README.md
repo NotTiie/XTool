@@ -35,3 +35,18 @@ Python 3+
 1. Click on the green "Code" button and then click on "Download ZIP"
 2. Run setup.bat and it should install most of the modules, if it doesn't work try to manually install.
 3. Run XTool.py
+
+
+# Amazing People
+
+https://github.com/AstraaDev
+
+https://github.com/Rdimo
+
+https://github.com/Swag1400
+
+https://github.com/Buntii
+
+https://github.com/zetism
+
+H0LLOW#9910
