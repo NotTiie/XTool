@@ -1,5 +1,5 @@
 # XTool
-Discord Multitool
+Discord Multitool [FOR EDUCATIONAL PURPOSES]
 
 
 # 24 Features:
