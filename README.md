@@ -37,7 +37,7 @@ Python 3+
 3. Run XTool.py
 
 
-# Amazing People & Credits
+# Awesome People & Credits
 
 https://github.com/AstraaDev
 
